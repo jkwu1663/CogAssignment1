@@ -7,11 +7,9 @@ public class AssignmentOne {
         System.out.println("Enter number for n");
         int n = sc.nextInt();
         System.out.println(evenNums(n));
-
-        // question 2
-//        question2(sc);
-//        question3(sc);
-//        question4(sc);
+        question2(sc);
+        question3(sc);
+        question4(sc);
         question5(sc);
 
     }
